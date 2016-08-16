@@ -1,0 +1,23 @@
+
+body{
+	background-color: #d9d9f2;
+}
+h1{
+	color: #ff0066; /*ponemos COLOR nuestra etiqueta h1*/
+}
+h2{
+	color: #ff0066;
+}
+h3{
+	color:  #0000e6;
+}
+#centrar {
+	/*aca estamos centrando a 700 pixeles de ancho*/
+	width: 700px;
+	margin: 0 auto;
+}
+
+ol{
+	font-size: 14px;
+	font-family: Arial;
+}
